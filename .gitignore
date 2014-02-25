@@ -5,9 +5,9 @@
 *.d
 *.pydevproject
 .metadata
-*/obj/*
-*/bin/*
-*/gen/*
+*obj/*
+*bin/*
+*gen/*
 tmp/**
 tmp/**/*
 *.tmp
